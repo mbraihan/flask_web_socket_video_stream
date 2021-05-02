@@ -1,0 +1,15 @@
+Click
+dnspython
+eventlet
+Flask
+Flask-SocketIO
+greenlet
+itsdangerous
+Jinja2
+monotonic
+python-engineio
+python-socketio
+six
+Werkzeug
+requests
+websocket-client
